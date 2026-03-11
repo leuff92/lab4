@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+//1
 namespace lab4
 {
     public class Computer
